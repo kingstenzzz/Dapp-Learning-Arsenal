@@ -7,6 +7,13 @@ https://github.com/ZtesoftCS/go-ethereum-code-analysis
 
 
 ### Layer2    
-Defi Workshop - 从零搭建自己的Lending Pool:  https://www.bilibili.com/video/BV1Ef4y1w7GX  
-zkSync:  https://wallet.zksync.io/deposit  
+ethresearch:https://ethresear.ch/c/layer-2/32  
+Layer 2 方案概览：https://ethfans.org/posts/layer-2-from-state-channel-to-roll-up  
+Defi Workshop - 从零搭建自己的Lending Pool:  https://www.bilibili.com/video/BV1Ef4y1w7GX    
+Sidechain：https://polygon.technology  
+StateChannel：https://statechannels.org  
+Optimistic Rollups  
+Optimism:https://www.optimism.io  
+Arbitrum:https://arbitrum.io/  
+ZK-Rollups:https://zksync.io/  
 
